@@ -1,0 +1,7 @@
+FastAPI
+SQLAlchemy
+alembic
+Uvicorn
+pydantic_settings
+asyncpg
+psycopg2
